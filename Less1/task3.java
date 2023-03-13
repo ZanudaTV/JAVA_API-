@@ -1,5 +1,5 @@
 package Less1;
-//Реализовать простой калькулятор
+//Реализовать простой калькулятор.
 import java.util.Scanner;
 
 public class task3 {
